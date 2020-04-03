@@ -8,6 +8,6 @@ These files are:
 - the synthetic head data [m]. Each column corresponds to the time series at one observation location in the order of the
 location numbering shown in Figure 1;
 - the synthetic flowrate data [m^3/s]. Each column corresponds to the time series associated to each one the five zones 
-defined from the bottom to the top of the western boundary;
+defined from the bottom to the top of the western boundary.
 
 
