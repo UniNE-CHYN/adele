@@ -1,7 +1,7 @@
 # adele
 A grounDwatEr data assimiLation bEnchmark
 
-This repository contains the main data files associated to the synthetic test case considered in the manuscript "Conditioning multi-Gaussian groundwater flow parameters to transient hydraulic head and flowrate data with iterative ensemble smoothers: a synthetic case study" currently under revision for publication in "Frontiers in Earth Science" (section Hydrosphere). 
+This repository contains the main data files associated to the synthetic test case considered in the manuscript "Conditioning multi-Gaussian groundwater flow parameters to transient hydraulic head and flowrate data with iterative ensemble smoothers: a synthetic case study" currently under revision for publication in Frontiers in Earth Science. 
 
 These files are:
 - the hydraulic conductivity values [m/s], stacked in one column, of the reference field of dimensions 50 x 500; 
