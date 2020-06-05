@@ -10,5 +10,5 @@ location numbering shown in Figure 1;
 - the synthetic flowrate data [m^3/s]. Each column corresponds to the time series associated to each one the five zones 
 defined from the bottom to the top of the western boundary.
 
-![Alt text](refField_logK_50x500.png?raw=true "Reference field of log hydraulic conductivities")
+![Alt text](refField_logK_50x500.png?raw=true "Reference log K field")
 ![Alt text](figure1.png?raw=true "Figure 1")
